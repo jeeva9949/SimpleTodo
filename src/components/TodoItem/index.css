@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.itemContainer {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  color: #ff0b37;
+  background-color: white;
+  border: 2px solid #ff0b37;
+  padding: 10px;
+  border-radius: 10px;
+}
